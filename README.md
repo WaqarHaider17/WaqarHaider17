@@ -1,0 +1,5 @@
+- 👋 Hi, I’m WAQAR HAIDER
+- 👀 I’m interested in Artificial intelligence and Machine learning
+- 🌱 I’m currently learning Python and Mobile Application Development
+- 💞️ I’m looking to collaborate on AI
+- 📫 How to reach me waqarkandwal17@gmail.com
